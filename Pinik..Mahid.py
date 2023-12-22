@@ -36,10 +36,10 @@ time.sleep(2)
 print("\033[95;1m[\x1b[35;5;50m+\033[97;1m]\x1b[35;5;50m SUBSCRIBE MY YOUTUBE CHANNEL..!")
 os.system("espeak -a 300 \"SUBSCRIBE,MY,YOUTUBE,CHANNEL,\"")
 time.sleep(2)
-os.system(f'xdg-open https://www.youtube.com/@kgaming6607')
-os.system(f'xdg-open https://www.facebook.com/profile.php?id=100088035424278')
+os.system(f'xdg-open https://m.facebook.com/pinik.mahid.001')
+os.system(f'xdg-open https://m.facebook.com/pinik.mahid.001')
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
-#------------------[ MR-LIMON ]-------------------#
+#------------------[ MD-LIMON ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
 ua = ["Mozilla/5.0 (Linux; Android 11; 2107113SI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",]
@@ -525,7 +525,7 @@ cokbrut=[]
 ses=requests.Session()
 prinCP=[]
 try:
-    prox= requests.get('https://github.com/MR-LIMON786/File-Cloning/blob/main/Approved.txt').text
+    prox= requests.get('https://github.com/PinikMahid/pinik.mahid/blob/main/Aprove.txt').text
     open('.prox.txt','w').write(prox)
 except Exception as e:
     pass
@@ -736,7 +736,7 @@ def linex():
     print('\033[1;37m')
 def animation(u):
     for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
-os.system('xdg-open https://www.facebook.com/profile.php?id=100088035424278')
+os.system('xdg-open https://www.facebook.com/pinik.mahid.001')
 logo ="""
  ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
  ║\033[0;96m●▬▬▬▬▬๑🌸🕌۩[Bismillahir Rahmanir Rahim]۩🕌🌸๑▬▬▬▬▬▬●\033[0;91m║
@@ -762,7 +762,7 @@ logo ="""
 =================================================="\033[1;23m"""                                
 balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
 meyermarexudi =(""" \033[0;97m=============================================""")    
-alltimexudi =(""" \033[32;1m[-] ONLY APPROVAL SYSTEM 7 DEYS 150TK 30 500TK FOR    APPROVAL""")
+alltimexudi =(""" \033[32;1m[-] ONLY APPROVAL SYSTEM 7 DEYS Free 30 500TK FOR    APPROVAL""")
 xudartimenai =(""" \033[32;1m[+] CONTACT ADMIN PLZ ENTAR""")
 fuckyoursali =(""" \033[32;1m[𝟷] 𝚈𝙾𝚄𝚁 𝚃𝙾𝙺𝙴𝙽 𝙸𝚂 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙰𝙿𝙿𝚁𝙾𝚅𝙴𝙳""")
 xudinaministar =(""" \033[38;1m[-] Importent Note """)
@@ -775,7 +775,7 @@ def meyexudi():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "-".join(uuid)
   try:
-    httpCaht = requests.get('https://github.com/Mr-Alon/File-Cloning/blob/main/Approve.txt').text
+    httpCaht = requests.get('https://github.com/PinikMahid/pinik.mahid/blob/main/Aprove.txt').text
     if id in httpCaht:
       print(fuckyoursali)
       print(hedaborakarent)
@@ -795,7 +795,7 @@ def meyexudi():
       os.system('espeak -a 300 " Hello,   Sir,  Assalamualaikum,   I,   Am,    Robot,   of,   MR,   LIMON,    Please,   Send,   Your,   Key,"')
       print(" \x1b[0m║══[𝟸] YOUR KEY : "+id)
       input(' \033[1;30m╚══[𝟹] IF U WANT TO BUY THEN PRESS ENTER ')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801309177411?text='+tks),approval()      
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+88011519602135?text='+tks),approval()      
       time.sleep(1)
       meyexudi()
   except:
