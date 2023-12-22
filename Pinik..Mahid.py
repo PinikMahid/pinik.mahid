@@ -1197,8 +1197,12 @@ def passwrd():
                     pwv.append(frs+'@@@')
                     pwv.append(frs+'@@@@')
                     pwv.append(frs+'@#')
-                                  
-                             
+                    pwv.append(frs+'@1234')
+                    pwv.append(frs+'@12')
+                    pwv.append(frs+'@123')
+                    pwv.append(last+'@1234')
+
+		
             else:
                 if len(frs)<3:
                     pwv.append(nmf)
@@ -1216,6 +1220,11 @@ def passwrd():
                     pwv.append(frs+'@@@')
                     pwv.append(frs+'@@@@')
                     pwv.append(frs+'@#')
+                    pwv.append(frs+'@1234')
+                    pwv.append(frs+'@12')
+                    pwv.append(frs+'@123')
+                    pwv.append(last+'@1234')
+
                                        
                     
             if 'ya' in pwpluss:
