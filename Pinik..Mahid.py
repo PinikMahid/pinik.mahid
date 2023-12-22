@@ -1203,7 +1203,6 @@ def passwrd():
                     pwv.append(last+'@1234')
                     pwv.append(last+'@123')
                     pwv.append(last+'@12')
-                    pwv.append(last+'1234')
                     pwv.append(last+'@1122')
             else:
                 if len(frs)<3:
@@ -1228,7 +1227,6 @@ def passwrd():
                     pwv.append(last+'@1234')
                     pwv.append(last+'@123')
                     pwv.append(last+'@12')
-                    pwv.append(last+'1234')
                     pwv.append(last+'@1122')
 
             if 'ya' in pwpluss:
