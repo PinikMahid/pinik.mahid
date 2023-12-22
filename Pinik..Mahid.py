@@ -1214,7 +1214,6 @@ def passwrd():
                     pwv.append(frs+'@@@')
                     pwv.append(frs+'@@@@')
                     pwv.append(frs+'@#')
-
             if 'ya' in pwpluss:
                 for xpwd in pwnya:
                     pwv.append(xpwd)
