@@ -741,41 +741,38 @@ logo ="""
  ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
  ║\033[0;96m●▬▬▬▬▬๑🌸🕌۩[Bismillahir Rahmanir Rahim]۩🕌🌸๑▬▬▬▬▬▬●\033[0;91m║
  ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝                                                                    
-\33[0;91mPPPPPPPPPPPPPPPPP     iiii                     iiii  kkkkkkkk           
-\34[0;91mP::::::::::::::::P   i::::i                   i::::i k::::::k           
-\35[0;91mP::::::PPPPPP:::::P   iiii                     iiii  k::::::k           
-\36[0;91mPP:::::P     P:::::P                                 k::::::k           
-\37[0;91m  P::::P     P:::::Piiiiiiinnnn  nnnnnnnn    iiiiiii  k:::::k    kkkkkkk
-\38[0;91m  P::::P     P:::::Pi:::::in:::nn::::::::nn  i:::::i  k:::::k   k:::::k 
-\39[0;91m  P::::PPPPPP:::::P  i::::in::::::::::::::nn  i::::i  k:::::k  k:::::k  
-\40[0;91m  P:::::::::::::PP   i::::inn:::::::::::::::n i::::i  k:::::k k:::::k   
-\41[0;91m  P::::PPPPPPPPP     i::::i  n:::::nnnn:::::n i::::i  k::::::k:::::k    
-\42[0;91m  P::::P             i::::i  n::::n    n::::n i::::i  k:::::::::::k     
-\43[0;91m  P::::P             i::::i  n::::n    n::::n i::::i  k:::::::::::k     
-\44[0;91m  P::::P             i::::i  n::::n    n::::n i::::i  k::::::k:::::k    
-\45[0;91mPP::::::PP          i::::::i n::::n    n::::ni::::::ik::::::k k:::::k   
-\46[0;91mP::::::::P          i::::::i n::::n    n::::ni::::::ik::::::k  k:::::k  
-\47[0;91mP::::::::P          i::::::i n::::n    n::::ni::::::ik::::::k   k:::::k 
-\48[0;91mPPPPPPPPPP          iiiiiiii nnnnnn    nnnnnniiiiiiiikkkkkkkk    kkkkkkk
+
+      \033[1;30::::::::: ::::::::::: ::::    ::: ::::::::::: :::    ::: 
+     \033[1;30:+:    :+:    :+:     :+:+:   :+:     :+:     :+:   :+:   
+    \033[1;31+:+    +:+    +:+     :+:+:+  +:+     +:+     +:+  +:+     
+   \033[1;31+#++:++#+     +#+     +#+ +:+ +#+     +#+     +#++:++       
+  \033[1;32+#+           +#+     +#+  +#+#+#     +#+     +#+  +#+       
+ \033[1;32#+#           #+#     #+#   #+#+#     #+#     #+#   #+#       
+\033[1;33###       ########### ###    #### ########### ###    ###       
+
+
+
+
 
 
  ║\33[0;95m[<🕌Assalamualaikum"Mind It,'You Will Never Pinik🕴️>]\033[0;95m║
  ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
-\033[1;31m==================================================
-[] AUTHOR       :      PINIK-MAHID� 
-[] TOOLS        :     𝐅𝐈𝐋𝐄-𝐂𝐋𝐎𝐍𝐈𝐍𝐆
-[] TYPE         :      𝗣𝗔𝗜𝗗(𝐔𝐬𝐞𝐫 𝐎𝐧𝐥𝐲)
-[] FACEBOOK     :      𝐀𝐋𝐎𝐍𝐄
-[] VERSION      :      99.99
-[] MESSENGER    :      � LINUX BES � 
+\033[1;32m==================================================
+
+\033[1;37m[] AUTHOR       :      PINIK-MAHID� 
+\033[1;32m[] TOOLS        :     𝐅𝐈𝐋𝐄-𝐂𝐋𝐎𝐍𝐈𝐍𝐆
+\033[1;33m[] TYPE         :      𝗣𝗔𝗜𝗗(𝐔𝐬𝐞𝐫 𝐎𝐧𝐥𝐲)
+\033[1;34m[] FACEBOOK     :      Pinik
+\033[1;35m[] VERSION      :      99.99
+\033[1;36m[] MESSENGER    :      � LINUX BEST � 
 =================================================="\033[1;23m"""                                
 balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
 meyermarexudi =(""" \033[0;97m=============================================""")    
 alltimexudi =(""" \033[32;1m[-] ONLY APPROVAL SYSTEM 7 DEYS 150TK 30 500TK FOR    APPROVAL""")
-xudartimenai =(""" \033[32;1m[+] CONTACT ADMIN PLZ ENTAR""")
-fuckyoursali =(""" \033[32;1m[𝟷] 𝚈𝙾𝚄𝚁 𝚃𝙾𝙺𝙴𝙽 𝙸𝚂 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙰𝙿𝙿𝚁𝙾𝚅𝙴𝙳""")
-xudinaministar =(""" \033[38;1m[-] Importent Note """)
-hedaborakarent =(""" \033[35;1m[𝟸] 𝙵𝚄𝙲𝙺 𝙱𝚈𝙿𝙰𝚂𝙰𝚁 𝙲𝙷𝙰𝙺𝙴 𝚈𝙾𝚄𝚁 𝙳𝙰𝚃𝙰 ABAL😎 """)
+xudartimenai =(""" \033[33;1m[+] CONTACT ADMIN PLZ ENTAR""")
+fuckyoursali =(""" \033[34;1m[𝟷] 𝚈𝙾𝚄𝚁 𝚃𝙾𝙺𝙴𝙽 𝙸𝚂 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙰𝙿𝙿𝚁𝙾𝚅𝙴𝙳""")
+xudinaministar =(""" \033[35;1m[-] Importent Note """)
+hedaborakarent =(""" \033[36;1m[𝟸] 𝙵𝚄𝙲𝙺 𝙱𝚈𝙿𝙰𝚂𝙰𝚁 𝙲𝙷𝙰𝙺𝙴 𝚈𝙾𝚄𝚁 𝙳𝙰𝚃𝙰 ABAL😎 """)
 
                   #____APPROVAL SYSTEM ADD_____#
 def meyexudi():
@@ -801,10 +798,10 @@ def meyexudi():
       print(' \x1b[1;97m║══[𝟸]💥  WI-FI  AND DATA BOTH WORKING 100%')
       print(' \x1b[1;95m║══[𝟸]💥  15 DAY 250 TAKA ')
       print(' \x1b[38;5;50m║══[𝟸]💥  30 DAY 500 TAKA ')
-      os.system('espeak -a 300 " Hello,   Sir,  Assalamualaikum,   I,   Am,    Robot,   of,   MR,   ALONE,    Please,   Send,   Your,   Key,"')
+      os.system('espeak -a 300 " Hello,   Sir,  Assalamualaikum,   I,   Am,    Robot,   of,   PINIK,   MAHID,    Please,   Send,   Your,   Key,"')
       print(" \x1b[0m║══[𝟸] YOUR KEY : "+id)
       input(' \033[1;30m╚══[𝟹] IF U WANT TO BUY THEN PRESS ENTER ')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801309177411?text='+tks),approval()      
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801519602135?text='+tks),approval()      
       time.sleep(1)
       meyexudi()
   except:
