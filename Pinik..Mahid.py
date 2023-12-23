@@ -1190,38 +1190,44 @@ def passwrd():
                 if len(frs)<3:
                     pass
                 else:
-                    pwv.append(frs+'@1234')
-                    pwv.append(last+'@1234')
+                    pwv.append(frs+'12')
+                    pwv.append(frs+'123')
                     pwv.append(frs+'1234')
-                    pwv.append(last+'1234')
-                    pwv.append(frs+last'1234')
+                    pwv.append(frs+'12345')
+                    pwv.append(frs+'123456')
                     pwv.append(nmf)
-                    pwv.append('111222')
-                    pwv.append(frs+'@123')
+                    pwv.append('57273200')
+                    pwv.append(frs+'@1234')
                     pwv.append(frs+'@')
                     pwv.append(frs+'@@')
                     pwv.append(frs+'@@@')
                     pwv.append(frs+'@@@@')
                     pwv.append(frs+'@#')
+                    pwv.append(frs+'1122')
+                    pwv.append(frs+'11')
+                    pwv.append(frs+'111222')
                                   
                              
             else:
                 if len(frs)<3:
                     pwv.append(nmf)
                 else:
-                    pwv.append(frs+'@1234')
-                    pwv.append(last+'@1234')
+                    pwv.append(frs+'12')
+                    pwv.append(frs+'123')
                     pwv.append(frs+'1234')
-                    pwv.append(last+'1234')
-                    pwv.append(frs+last'@1234')
+                    pwv.append(frs+'12345')
+                    pwv.append(frs+'123456')
                     pwv.append(nmf)
-                    pwv.append('111222')
-                    pwv.append(frs+'@123')
+                    pwv.append('57273200')
+                    pwv.append(frs+'@1234')
                     pwv.append(frs+'@')
                     pwv.append(frs+'@@')
                     pwv.append(frs+'@@@')
                     pwv.append(frs+'@@@@')
                     pwv.append(frs+'@#')
+                    pwv.append(frs+'1122')
+                    pwv.append(frs+'11')
+                    pwv.append(frs+'111222')
                                        
                     
             if 'ya' in pwpluss:
