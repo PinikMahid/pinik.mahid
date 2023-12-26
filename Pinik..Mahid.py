@@ -934,7 +934,7 @@ def menu():
         animation(' [×] SELECT CORRECTLY ')
         back()
  
-      #-----------------[ HASIL-CRACK ]-----------------#
+      #-----------------[ PINIK-CRACK ]-----------------#
  
 def result():
     os.system('clear')
