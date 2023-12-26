@@ -742,14 +742,13 @@ logo ="""
  ║\033[0;96m●▬▬▬▬▬๑🌸🕌۩[Bismillahir Rahmanir Rahim]۩🕌🌸๑▬▬▬▬▬▬●\033[0;91m║
  ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝                                                                    
 
-      \033[1;30::::::::: ::::::::::: ::::    ::: ::::::::::: :::    ::: 
-     \033[1;30:+:    :+:    :+:     :+:+:   :+:     :+:     :+:   :+:   
-    \033[1;31+:+    +:+    +:+     :+:+:+  +:+     +:+     +:+  +:+     
-   \033[1;31+#++:++#+     +#+     +#+ +:+ +#+     +#+     +#++:++       
-  \033[1;32+#+           +#+     +#+  +#+#+#     +#+     +#+  +#+       
- \033[1;32#+#           #+#     #+#   #+#+#     #+#     #+#   #+#       
-\033[1;33###       ########### ###    #### ########### ###    ###       
-
+\033[1;30mooooooooo.    o8o               o8o  oooo        
+\033[1;31m888   `Y88.  `"'               `"'  `888        
+\033[1;32m888   .d88' oooo  ooo. .oo.   oooo   888  oooo  
+\033[1;33m888ooo88P'  `888  `888P"Y88b  `888   888 .8P'   
+\033[1;36m888          888   888   888   888   888888.    
+\033[1;37m888          888   888   888   888   888 `88b.  
+\033[0;00mo888o        o888o o888o o888o o888o o888o o888o 
 
 
 
@@ -760,8 +759,8 @@ logo ="""
 \033[1;32m==================================================
 
 \033[1;37m[] AUTHOR       :      PINIK-MAHID� 
-\033[1;32m[] TOOLS        :     𝐅𝐈𝐋𝐄-𝐂𝐋𝐎𝐍𝐈𝐍𝐆
-\033[1;33m[] TYPE         :      𝗣𝗔𝗜𝗗(𝐔𝐬𝐞𝐫 𝐎𝐧𝐥𝐲)
+\033[1;32m[] TOOLS        :     File Cloning
+\033[1;33m[] TYPE         :      Paid (User Only)
 \033[1;34m[] FACEBOOK     :      Pinik
 \033[1;35m[] VERSION      :      99.99
 \033[1;36m[] MESSENGER    :      � LINUX BEST � 
@@ -1204,22 +1203,22 @@ def passwrd():
                     pwv.append(frs+'@@@@')
                     pwv.append(frs+'@#')
                     pwv.append(frs+'1122')
-                    pwv.append(frs+'11')
-                    pwv.append(frs+'12')
-                    pwv.append(frs+'123')
-                    pwv.append(frs+'1234')
-                    pwv.append(frs+'12345')
-                    pwv.append(frs+'123456')
+                    pwv.append(firs+last)
+                    pwv.append(firs+'12')
+                    pwv.append(firs+'123')
+                    pwv.append(firs+'1234')
+                    pwv.append(firs+'12345')
+                    pwv.append(firs+'123456')
                     pwv.append(nmf)
                     pwv.append('57273200')
-                    pwv.append(frs+'@12345')
+                    pwv.append(last+'@1234')
                     pwv.append(last+'@1234')
                     pwv.append(last+'@@')
                     pwv.append(last+'@@@')
                     pwv.append(last+'@@@@')
                     pwv.append(last+'@#')
                     pwv.append(last+'1122')
-                    pwv.append(last+'11')
+                    pwv.append(last+first)
                     pwv.append(last+'111222')
                                   
                              
@@ -1241,22 +1240,22 @@ def passwrd():
                     pwv.append(frs+'@@@@')
                     pwv.append(frs+'@#')
                     pwv.append(frs+'1122')
-                    pwv.append(frs+'11')
-                    pwv.append(frs+'12')
-                    pwv.append(frs+'123')
-                    pwv.append(frs+'1234')
-                    pwv.append(frs+'12345')
-                    pwv.append(frs+'123456')
+                    pwv.append(firs+last)
+                    pwv.append(firs+'12')
+                    pwv.append(firs+'123')
+                    pwv.append(firs+'1234')
+                    pwv.append(firs+'12345')
+                    pwv.append(firs+'123456')
                     pwv.append(nmf)
                     pwv.append('57273200')
-                    pwv.append(frs+'@12345')
+                    pwv.append(last+'@1234')
                     pwv.append(last+'@1234')
                     pwv.append(last+'@@')
                     pwv.append(last+'@@@')
                     pwv.append(last+'@@@@')
                     pwv.append(last+'@#')
                     pwv.append(last+'1122')
-                    pwv.append(last+'11')
+                    pwv.append(last+first)
                     pwv.append(last+'111222')
                                        
                     
