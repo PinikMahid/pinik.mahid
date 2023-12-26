@@ -1218,7 +1218,6 @@ def passwrd():
                     pwv.append(last+'@@@@')
                     pwv.append(last+'@#')
                     pwv.append(last+'1122')
-                    pwv.append(last+first)
                     pwv.append(last+'111222')
                                   
                              
@@ -1255,7 +1254,6 @@ def passwrd():
                     pwv.append(last+'@@@@')
                     pwv.append(last+'@#')
                     pwv.append(last+'1122')
-                    pwv.append(last+first)
                     pwv.append(last+'111222')
                                        
                     
