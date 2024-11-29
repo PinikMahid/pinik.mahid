@@ -262,22 +262,4 @@ def api1(ids,names,passlist):
 	except Exception as e:
 		pass
 ()
-def apvdef():
-   a=str(os.geteuid())
-   b=str(os.getlogin())
-   y="".join(a+b)
-   key=f"ARNAV INXIDE {y} ✓"
-   row=httpx.get("https://github.com/SamarpanGm/Nop/blob/main/Gm.txt").text
-   if key in row:
-     Main_ARNAV()
-   else:
-     os.system("clear")
-     print(logo)
-     print(" Your key is not approved")
-     print(" Please get approve")
- #    print(lin)
-     print(" Your key : "+key)
-     os.system("termux-open https://chat.whatsapp.com/GWp6BVFv9GAGVsbzgBD5HW")
-     sys.exit()
-     
-apvdef()
+
