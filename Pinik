@@ -16,9 +16,7 @@ try:
 	from string import *
 	from requests import api
 	from concurrent.futures import ThreadPoolExecutor as tred
-except ImportError:
-	os.system('pip install requests futures==2 > /dev/null')
-	os.system('python ARNAV.py')
+
 
 import os
 from os import path
@@ -33,9 +31,7 @@ try:
     from string import *
     from requests import api
     from concurrent.futures import ThreadPoolExecutor as tred
-except ImportError:
-    os.system('pip install requests futures==2 > /dev/null')
-    os.system('python ARNAV.PY')
+
 
 os.system("clear")
 
